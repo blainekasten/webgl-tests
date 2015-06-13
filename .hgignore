@@ -1,0 +1,9 @@
+syntax: glob
+*.orig
+*.rej
+*~
+*.swp
+*.swo
+*.po
+*.log
+*/node_modules/*
